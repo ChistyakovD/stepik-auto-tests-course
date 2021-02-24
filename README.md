@@ -1,1 +1,1 @@
-# stepik-auto-tests-course обучение
+# stepik-auto-tests-course
